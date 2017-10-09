@@ -3,7 +3,7 @@
 ## Abstract: Haar recogition startup/ ASE keyword initialize main/ 'Hide and Seek' a text message in a image.
 
 # Authors:
-    * Ryan - GUI/ def encryptMessage
+    * Ryan lebon - GUI/ def encryptMessage
     * Kieran - GUI/ def decryptMessage
     * Phil -  def imageHider
    
